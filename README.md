@@ -1,4 +1,7 @@
-# INF1721-T3-22.1
-INF1721: Analise de Algoritmos - 2022.1
+# INF1721: Analise de Algoritmos - 2022.1
 
-Analise de Complexidade e Implementacao dos algoritmos de Fluxo Maximo: Edmonds-Karp & Pre-Flow Push.
+Max Flow Problem - Edmonds-Karp & Pre-Flow Push Algorithms:
+
+- Introduction to the max flow problem;
+- Time complexity analysis of both algorithms;
+- Python implementation and running time comparison;
