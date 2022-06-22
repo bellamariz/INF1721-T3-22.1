@@ -9,7 +9,6 @@
 <t> Collaborators:
   - Aiko Ramalho
   - Isabella Mariz
-  - João Fontana
   - Pedro Velozo
   
 <t> Professor: Marcus Vinicius Poggi
